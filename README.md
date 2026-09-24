@@ -1,5 +1,38 @@
-## Hi there 👋
+# Hi, I'm Yair 👋
 
+I'm a **Computer Science Student** at **Ben-Gurion University of the Negev** (Year 2, Semester A). 
+
+I am passionate about software development, low-level concepts. I am actively looking for **Software Engineering Student opportunities** where I can apply my skills, learn from experienced mentors, and contribute to real-world projects.
+
+---
+
+### 🛠️ Core Skills & Knowledge
+
+* **Languages:** Java, C++
+* **Core Concepts:** Object-Oriented Programming (OOP), Data Structures, Algorithms.
+* **Tools & OS:** Git, windows.
+
+---
+
+### 📂 Featured Projects
+
+> *Note: Academic and personal projects will be uploaded soon!*
+
+* **[Project Name 1]** - *Coming Soon*
+  * Description of the project, problem solved, or main feature.
+  * **Technologies:** Java, ...
+* **[Project Name 2]** - *Coming Soon*
+  * Description of another project or assignment.
+  * **Technologies:** C, Linux, ...
+
+---
+
+### 📫 Let's Connect!
+
+* **LinkedIn:** [Your LinkedIn Profile URL](https://linkedin.com/in/your-profile)
+* **Email:** [your.email@example.com](mailto:your.email@example.com)
+
+---
 <!--
 **yair-hash/yair-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
